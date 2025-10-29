@@ -1,0 +1,5 @@
+{
+  "name": "Company Database Dashboard",
+  "description": "A modern dashboard to manage and view company accounts across different departments, featuring AI-powered summaries.",
+  "requestFramePermissions": []
+}
